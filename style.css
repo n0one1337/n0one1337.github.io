@@ -1,0 +1,46 @@
+.in{
+    list-style-image: url("imagens/Insta.png");
+    margin-top: 10px;
+    margin: 10px;
+
+    
+    
+}
+
+.tw{
+    list-style-image: url("imagens/Twitter.png");
+    margin-top: 10px;
+    margin: 10px;
+    
+
+
+}
+
+.yt{
+    list-style-image: url("imagens/Youtube.png");
+    margin-top: 10px;
+    margin: 10px;
+
+}
+    
+    
+
+body{
+    background-image: url("imagens/backgorund.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.in2{
+    text-decoration: none;
+}
+
+.tw2{
+    text-decoration: none;
+}
+
+.yt2{
+    text-decoration: none;
+}
